@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# Build
+build/
+
+#Visual Studio Code
+.vscode
+
+# Personal
+.notes.md
